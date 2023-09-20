@@ -1,0 +1,59 @@
+site_name: SIGeD - GCES
+repo_name: "2023.2-SIGeD-GCES-Doc"
+repo_url: "https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc"
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/Siged-Gces-2023-2"  target="_blank" rel="noopener">SIGeD GCES</a>
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: indigo
+      accent: red 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: indigo
+      accent: red
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+nav:
+  - Início: index.md
