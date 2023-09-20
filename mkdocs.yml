@@ -11,7 +11,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -57,3 +56,7 @@ markdown_extensions:
 
 nav:
   - Início: index.md
+  - Sprints:
+    - Modelo: sprints/modelo-de-sprint.md
+  - Atas de Reunião:
+    - Modelo: atas-de-reuniao/modelo-de-ata.md
