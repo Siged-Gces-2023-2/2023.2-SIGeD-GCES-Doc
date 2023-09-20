@@ -1,6 +1,6 @@
 # 2023.2-SIGeD-GCES-Doc
 
-<p align="center"><img src="./assets/logo.png" width="500"></p>
+<p align="center"><img src="docs/assets/logo.png" width="500"></p>
 <figcaption align="center">Figura 1: Logo do SIGeD (Fonte: SIGeD, 2020)</figcaption>
 
 ---
