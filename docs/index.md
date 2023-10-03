@@ -17,12 +17,12 @@
 ## Contribuidores
 | **Foto** | **Nome** | **GitHub** |
 | :------: | :------: | :--------: |
-| <a href=""><img src="" height="auto" width="90" style="border-radius:50%"></a> | Ana Júlia Luziano Briceño | []() |
+| <a href=""><img src="https://avatars.githubusercontent.com/u/70165772?v=4" height="auto" width="90" style="border-radius:50%"></a> | Ana Júlia Luziano Briceño | [aluzianobriceno](https://github.com/aluzianobriceno) |
 | <a href="https://github.com/art-42"><img src="https://avatars.githubusercontent.com/u/53407780?v=4" height="auto" width="90" style="border-radius:50%"></a> | Artur de Sousa Vieira | [art-42](https://github.com/art-42) |
 | <a href="https://github.com/biancasofia"><img src="https://avatars.githubusercontent.com/u/69814402?v=4" height="auto" width="90" style="border-radius:50%"></a> | Bianca Sofia Brasil de Oliveira | [biancasofia](https://github.com/biancasofia) |
 | <a href="https://github.com/eng-Bruno"><img src="https://avatars.githubusercontent.com/u/81006095?v=4" height="auto" width="90" style="border-radius:50%"></a> | Bruno Oliveira Lima | [eng-Bruno](https://github.com/eng-Bruno) |
 | <a href="https://github.com/DaviSilva25"><img src="https://avatars.githubusercontent.com/u/79341819?v=4" height="auto" width="90" style="border-radius:50%"></a> | Davi Lima da Silva | [DaviSilva25](https://github.com/DaviSilva25) |
-| <a href=""><img src="" height="auto" width="90" style="border-radius:50%"></a> | Débora Caires de Souza Moreira | []() |
+| <a href=""><img src="https://avatars.githubusercontent.com/u/87550053?v=4" height="auto" width="90" style="border-radius:50%"></a> | Débora Caires de Souza Moreira | [deboracaires](https://github.com/deboracaires) |
 | <a href="https://github.com/GuilhermeB12"><img src="https://avatars.githubusercontent.com/u/70172633?v=4" height="auto" width="90" style="border-radius:50%"></a> | Guilherme Brito de Souza | [GuilhermeB12](https://github.com/GuilhermeB12) |
 | <a href="https://github.com/brbsg"><img src="https://avatars.githubusercontent.com/u/56006361?v=4" height="auto" width="90" style="border-radius:50%"></a> | Gustavo Barbosa de Oliveira | [brbsg](https://github.com/brbsg) |
 | <a href="https://github.com/laispa"><img src="https://avatars.githubusercontent.com/u/54222696?v=4" height="auto" width="90" style="border-radius:50%"></a> | Lais Portela de Aguiar | [laispa](https://github.com/laispa) |
