@@ -18,14 +18,15 @@ A aplicação web utiliza no front-end o framework **React**. A divisão é feit
 - **Constants:** armazena os códigos das cores utilizadas.
 
 #### Back-end
-<p align="justify">&emsp;&emsp;Os microsserviços foram construídos utilizando **NodeJS** e o framework **Express.js**, em que cada microsserviço tem um banco de dados não relacional MongoDB independente. Dada a alta escalabilidade dos microsserviços, foram definidos seis para essa aplicação, sendo eles: **Users, Clients, Demands, Cargos, Sectors e Patrimonio**.</p>
+<p align="justify">&emsp;&emsp;Os microsserviços foram construídos utilizando <b>NodeJS</b> e o framework <b>Express.js</b>, em que cada microsserviço tem um banco de dados não relacional MongoDB independente. Dada a alta escalabilidade dos microsserviços, foram definidos seis para essa aplicação, sendo eles: <b>Users, Clients, Demands, Cargos, Sectors e Patrimonio</b>.</p>
 
 <center>
 
   ![diagrama de relações](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/assets/79341819/c3ebdbf1-c6c5-4122-8e38-deb955896e81)
 
-  Figura 1. Diagrama de relações. (Fonte: Autor, 2023).
-  </center>
+</center>
+
+<figcaption align="center">Figura 1: Diagrama de relações. (Fonte: Autor, 2023).</figcaption>
 
 ## Planejamento
 - Subir o ambiente: objetivo de todos estarem com o projeto rodando ao final da sprint;
