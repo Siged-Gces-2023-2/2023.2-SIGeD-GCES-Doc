@@ -38,31 +38,33 @@ A aplicação web utiliza no front-end o framework **React**. A divisão é feit
     - Artur, Bianca Sofia e Guilherme
     - Bruno, Davi e Lucas
     - Ana, Débora, Gustavo e Laís
-- Entramos em contato com o mantenedor e combinaremos um horário para nossas reuniões.
+- Entramos em contato com o mantenedor e combinaremos um horário para nossas reuniões de acordo com o [Heatmap](https://docs.google.com/spreadsheets/d/1EFFLCVhI69-S8O3wMxnTCpdTKPXaUde4H5_NJ9l8P18/edit?usp=sharing).
 
 ## Problemas enfrentados
-<p align="justify">&emsp;&emsp;O aluno Bruno não conseguiu subir o ambiente. Os integrantes relatam problemas com o Docker e sistema operacional.</p>
-
-<p align="justify">&emsp;&emsp;Os integrantes do grupo relatam dificuldades de entendimento das diversas documentações e suas versões. Alguns novos problemas não mapeados foram identificados e o grupo pretende documentá-los nas próximas sprints.</p>
+<p align="justify">&emsp;&emsp;Os integrantes do grupo relatam dificuldades de entendimento das diversas documentações e suas versões. Alguns novos problemas não mapeados foram identificados e o grupo pretende documentá-los nas próximas sprints. Algumas diculdades com docker e sistema operacional ocorreram, o que acarretou na perda de tempo para subir o ambiente</p>
 
 ## Issues planejadas
 | ID |Descrição | Responsável | Status |
 | :--: | :-----: | :---------: | :-----:|
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Artur, Bianca Sofia, Guilherme | Em andamento |
-| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas, Bruno | Pronto para teste |
+| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas, Bruno | Aguardando validação |
 | [#7](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/7) | Mapeamento de Erros e Melhorias | Ana, Débora, Gustavo, Laís | Em andamento|
 
-<figcaption align="center">Tabela 1: Issues planejadas na sprint.</figcaption>
+<figcaption align="center">Tabela 1: Issues planejadas na sprint. (Fonte: Autor, 2023)</figcaption>
 
 ## Pull Request
 | ID |Descrição | Responsável | Status |
 | :--: | :-----: | :---------: | :-----:|
-| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas | Pronto para teste |
+| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas | Aguardando validação |
 
-<figcaption align="center">Tabela 2: Pull requests feitos na sprint.</figcaption>
+<figcaption align="center">Tabela 2: Pull requests feitos na sprint. (Fonte: Autor, 2023)</figcaption>
+
+![PRabertoissue05](https://github.com/DITGO/2021-2-SiGeD-Frontend/assets/79341819/2c3388e2-e938-4715-add4-dbce4f968021)
+
+<figcaption align="center">Figura 2: Pull request da issue 5. (Fonte: Autor, 2023)</figcaption>
 
 ## Conclusão
-<p align="justify">&emsp;&emsp;Pelo foco da sprint ter sido buildar o ambiente e alinhar os membros do grupos em divisão de tarefas, conseguimos um total de 9/10 pessoas que conseguiram subir a aplicação e apenas uma issue foi concluída, porém, no aguarda para verificação e validação com o mantenedor.</p>
+<p align="justify">&emsp;&emsp;Pelo foco da sprint ter sido buildar o ambiente e alinhar os membros do grupos em divisão de tarefas, conseguimos que todos subissem a aplicação e apenas uma issue foi concluída, porém, no aguarda para verificação e validação com o mantenedor.</p>
 
 <p align="justify">&emsp;&emsp;Após debate entre o grupo foi definido que a próxima sprint terá divisão em pares. Além disso também iremos fazer uma reunião com o Bruno para o esclarecimento das issues.</p>
 
@@ -71,3 +73,4 @@ A aplicação web utiliza no front-end o framework **React**. A divisão é feit
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 04/10/2023 | Elaboração do documento | Todos |
 | 1.1 | 05/10/2023 | Inclusão do pull request feito | Lucas, Davi |
+| 1.2 | 05/10/2023 | Ajustes finais da apresentação | Lucas |
