@@ -41,7 +41,7 @@ A aplicação web utiliza no front-end o framework **React**. A divisão é feit
 - Entramos em contato com o mantenedor e combinaremos um horário para nossas reuniões.
 
 ## Problemas enfrentados
-<p align="justify">&emsp;&emsp;Os alunos Ana, Bruno e Gustavo não conseguiram subir o ambiente. Os integrantes relatam problemas com o Docker e sistema operacional.</p>
+<p align="justify">&emsp;&emsp;O aluno Bruno não conseguiu subir o ambiente. Os integrantes relatam problemas com o Docker e sistema operacional.</p>
 
 <p align="justify">&emsp;&emsp;Os integrantes do grupo relatam dificuldades de entendimento das diversas documentações e suas versões. Alguns novos problemas não mapeados foram identificados e o grupo pretende documentá-los nas próximas sprints.</p>
 
@@ -49,15 +49,20 @@ A aplicação web utiliza no front-end o framework **React**. A divisão é feit
 | ID |Descrição | Responsável | Status |
 | :--: | :-----: | :---------: | :-----:|
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Artur, Bianca Sofia, Guilherme | Em andamento |
-| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas, Bruno | Em andamento |
+| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas, Bruno | Pronto para teste |
 | [#7](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/7) | Mapeamento de Erros e Melhorias | Ana, Débora, Gustavo, Laís | Em andamento|
-
 
 <figcaption align="center">Tabela 1: Issues planejadas na sprint.</figcaption>
 
+## Pull Request
+| ID |Descrição | Responsável | Status |
+| :--: | :-----: | :---------: | :-----:|
+| [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente | Davi, Lucas | Pronto para teste |
+
+<figcaption align="center">Tabela 2: Pull requests feitos na sprint.</figcaption>
 
 ## Conclusão
-<p align="justify">&emsp;&emsp;Pelo foco da sprint ter sido buildar o ambiente e alinhar os membros do grupos em divisão de tarefas, nenhuma issue foi finalizada.</p>
+<p align="justify">&emsp;&emsp;Pelo foco da sprint ter sido buildar o ambiente e alinhar os membros do grupos em divisão de tarefas, conseguimos um total de 9/10 pessoas que conseguiram subir a aplicação e apenas uma issue foi concluída, porém, no aguarda para verificação e validação com o mantenedor.</p>
 
 <p align="justify">&emsp;&emsp;Após debate entre o grupo foi definido que a próxima sprint terá divisão em pares. Além disso também iremos fazer uma reunião com o Bruno para o esclarecimento das issues.</p>
 
@@ -65,3 +70,4 @@ A aplicação web utiliza no front-end o framework **React**. A divisão é feit
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 04/10/2023 | Elaboração do documento | Todos |
+| 1.1 | 05/10/2023 | Inclusão do pull request feito | Lucas, Davi |
