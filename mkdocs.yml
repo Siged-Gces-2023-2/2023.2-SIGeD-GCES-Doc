@@ -58,5 +58,6 @@ nav:
   - Início: index.md
   - Sprints:
     - Sprint 1: sprints/sprint1.md
+    - Sprint 2: sprints/sprint2.md
   - Atas de Reunião:
     - Modelo: atas-de-reuniao/modelo-de-ata.md
