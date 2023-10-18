@@ -64,7 +64,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Data do PR:** 05/10/2023
 - **Screenshot:**
 
-![Pull Request #24]()
+![Pull Request #24](../assets/pullRequests/pr24.png)
 
 <figcaption align="center">Figura 2: Pull Request da issue #9. (Fonte: Autor, 2023)</figcaption>
 
@@ -125,4 +125,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 16/10/2023 | Criação inicial do documento | Lucas Lopes |
-| 1.1 | 18/10/2023 | Inclusão de nova issue | Lucas Lopes |
+| 1.1 | 18/10/2023 | Inclusão de novo PR | Lucas Lopes |
