@@ -13,7 +13,8 @@
 ### Issues planejadas e pareamentos
 | ID | Descrição | Responsáveis |
 | :--: | :-----: | :----------: |
-| [#1](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | Criar relatório Estatístico de Demandas por Características | Lucas Lopes e Davi Lima |
+| [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | Criar gráfico Estatístico de Demandas por Características | Lucas Lopes e Davi Lima |
+| [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima |
 | [#X]() | Descrição da issue | Laís Aguiar e Ana Júlia |
 | [#X]() | Descrição da issue | Bianca Sofia e Guilherme Brito |
 | [#X]() | Descrição da issue | Bruno Oliveira e Gustavo Barbosa |
@@ -26,12 +27,13 @@
 - Dividimos os pareamentos;
 - Cada pareamento escolheu e iniciou o desenvolvimento de uma issue, por responsabilidade própria;
 - Criamos um canal no Discord para comunicação direta com o mantenedor. Além da possibilidade de chamada, também existem os chats para rápida comunicação;
-- Reunião marcada com o mantenedor às 20h do dia 17/10/2023.
+- Reunião feita com o mantenedor às 20h do dia 17/10/2023.
 
 ### Issues executadas
 | ID | Descrição | Responsáveis | Status |
 | :--: | :-----: | :----------: | :----: |
-| [#1](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | Criar relatório Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
+| [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | Criar gráfico Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Não iniciada/Em andamento/Concluída |
+| [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima | Concluída |
 | [#X]() | Descrição da issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da issue | Bianca Sofia e Guilherme Brito | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
@@ -46,12 +48,25 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 - **Autores:** Lucas Lopes e Davi Lima
 - **ID e Descrição do PR:** [#Y - Descrição do PR]()
-- **ID e Descrição da Issue:** [#1 - Criar relatório Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1)
+- **ID e Descrição da Issue:** [#2 - Criar gráfico Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2)
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
+![Pull Request #Y]()
 
-<figcaption align="center">Figura 1: Pull Request da issue #1. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 1: Pull Request da issue #2. (Fonte: Autor, 2023)</figcaption>
+
+---
+
+- **Autores:** Lucas Lopes e Davi Lima
+- **ID e Descrição do PR:** [#24 - Adição de imprimir todas as demandas por cliente](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/24)
+- **ID e Descrição da Issue:** [#9 - Impressão de Relatório de Demandas na Tela de Perfil do Cliente](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9)
+- **Data do PR:** 05/10/2023
+- **Screenshot:**
+
+![Pull Request #24]()
+
+<figcaption align="center">Figura 2: Pull Request da issue #9. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -61,8 +76,9 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
+![Pull Request #Y]()
 
-<figcaption align="center">Figura 2: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -72,8 +88,9 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
+![Pull Request #Y]()
 
-<figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 4: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -83,8 +100,9 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
+![Pull Request #Y]()
 
-<figcaption align="center">Figura 4: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 5: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -94,12 +112,11 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
+![Pull Request #Y]()
 
-<figcaption align="center">Figura 5: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 6: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
 ---
-
-
 
 ## Conclusão
 Escrever uma reflexão simples e direta sobre a sprint em questão. Experiências, dificuldades, melhorias...
@@ -108,3 +125,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 16/10/2023 | Criação inicial do documento | Lucas Lopes |
+| 1.1 | 18/10/2023 | Inclusão de nova issue | Lucas Lopes |
