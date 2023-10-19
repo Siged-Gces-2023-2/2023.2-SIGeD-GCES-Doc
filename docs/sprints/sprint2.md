@@ -34,7 +34,7 @@
 | :--: | :-----: | :----------: | :----: |
 | [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | Criar gráfico Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Não iniciada/Em andamento/Concluída |
 | [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima | Concluída |
-| [#X]() | Descrição da issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
+| [#8](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) | Descrição da issue | Laís Aguiar e Ana Júlia | Concluída |
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito | Concluída |
 | [#X]() | Descrição da issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
@@ -71,12 +71,12 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Laís Aguiar e Ana Júlia
-- **ID e Descrição do PR:** [#Y - Descrição do PR]()
-- **ID e Descrição da Issue:** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do PR:** [#26 - Correcoes e melhorias em Demandas e Cargos]()
+- **ID e Descrição da Issue:** [#8 - Correção de Erros e Melhorias](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8)
+- **Data do PR:** 19/10/2023
 - **Screenshot:**
 
-![Pull Request #25]()
+![Pull Request #26](../assets/pullRequests/pull_26.jpeg)
 
 <figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
