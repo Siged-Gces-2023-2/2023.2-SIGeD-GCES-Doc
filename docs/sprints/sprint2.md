@@ -17,7 +17,7 @@
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito |
 | [#4](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | Incluir atendimentos dentro da demanda | Bruno Oliveira e Gustavo Barbosa |
 | [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente na tela de demandas | Lucas Lopes e Davi Lima |
-| [#X]() | Descrição da issue | Laís Aguiar e Ana Júlia |
+| [#8](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) | Correção de Erros e Melhorias | Laís Aguiar e Ana Júlia |
 | [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima |
 | [#10](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10) | Correções página de clientes | Artur Sousa e Débora Caires |
 
@@ -37,7 +37,7 @@
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito | Concluída |
 | [#4](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | Incluir atendimentos dentro da demanda | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#5](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | Relatório de todas as demandas por cliente na tela de demandas | Lucas Lopes e Davi Lima | Concluída |
-| [#8](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) | Descrição da issue | Laís Aguiar e Ana Júlia | Concluída |
+| [#8](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) | Correção de Erros e Melhorias | Laís Aguiar e Ana Júlia | Concluída |
 | [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima | Concluída |
 | [#10](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10) | Correção página de clientes | Artur Sousa e Débora Caires | Concluída |
 
@@ -81,7 +81,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ![Pull Request #26](../assets/pullRequests/pull_26.jpeg)
 
-<figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 3: Pull Request da issue #8. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
