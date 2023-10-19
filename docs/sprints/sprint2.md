@@ -18,7 +18,7 @@
 | [#X]() | Descrição da issue | Laís Aguiar e Ana Júlia |
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito |
 | [#4](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | Incluir atendimentos dentro da demanda | Bruno Oliveira e Gustavo Barbosa |
-| [#X]() | Descrição da issue | Artur Sousa e Débora Caires |
+| [#10](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10) | Correções página de clientes | Artur Sousa e Débora Caires |
 
 <figcaption align="center">Tabela 1: Issues planejadas na sprint. (Fonte: Autor, 2023)</figcaption>
 
@@ -37,7 +37,7 @@
 | [#8](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) | Descrição da issue | Laís Aguiar e Ana Júlia | Concluída |
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito | Concluída |
 | [#4](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | Incluir atendimentos dentro da demanda | Bruno Oliveira e Gustavo Barbosa | Concluída |
-| [#X]() | Descrição da issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
+| [#10](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10) | Correção página de clientes | Artur Sousa e Débora Caires | Concluída |
 
 <figcaption align="center">Tabela 2: Issues finalizadas com sucesso na sprint. (Fonte: Autor, 2023)</figcaption>
 
@@ -108,15 +108,16 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ---
 
+### Desenvolvimento
+
 - **Autores:** Artur Sousa e Débora Caires
-- **ID e Descrição do PR:** [#Y - Descrição do PR]()
-- **ID e Descrição da Issue:** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição da Issue:** [#10 - Correções Página de Clientes](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10)
 - **Screenshot:**
 
-![Pull Request #Y]()
 
-<figcaption align="center">Figura 6: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+![Issue #10](../assets/development/issue10.png)
+
+<figcaption align="center">Figura 6: Print da Issue #10. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -129,3 +130,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | 1.0 | 16/10/2023 | Criação inicial do documento | Lucas Lopes |
 | 1.1 | 18/10/2023 | Inclusão de novo PR | Lucas Lopes |
 | 1.2 | 18/10/2023 | Inclusão de novo PR | Bianca Sofia |
+| 1.3 | 19/10/2023 | Inclusão de desenvolvimento | Débora Moreira |
