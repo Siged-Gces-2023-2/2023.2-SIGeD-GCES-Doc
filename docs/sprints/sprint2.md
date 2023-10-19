@@ -112,12 +112,34 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 - **Autores:** Artur Sousa e Débora Caires
 - **ID e Descrição da Issue:** [#10 - Correções Página de Clientes](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10)
+- **Link para a branch:** [https://github.com/Siged-Gces-2023-2/2021-2-SiGeD-Frontend/tree/feature/error-message-cliente](https://github.com/Siged-Gces-2023-2/2021-2-SiGeD-Frontend/tree/feature/error-message-cliente)
 - **Screenshot:**
 
 
 ![Issue #10](../assets/development/issue10.png)
 
 <figcaption align="center">Figura 6: Print da Issue #10. (Fonte: Autor, 2023)</figcaption>
+
+![Scroll antes](../assets/development/scroll.jpeg)
+
+<figcaption align="center">Figura 7: Print do scroll antes de modificado. (Fonte: Autor, 2023)</figcaption>
+
+![Scroll pronto](../assets/development/scrollPronto.jpeg)
+
+<figcaption align="center">Figura 8: Print do scroll pronto. (Fonte: Autor, 2023)</figcaption>
+
+![Mensagens de erro antes](../assets/development/modal.jpeg)
+
+<figcaption align="center">Figura 9: Print da tela de clientes. (Fonte: Autor, 2023)</figcaption>
+
+![Mensagens de erro depois pt1](../assets/development/modalCorreto.jpeg)
+
+<figcaption align="center">Figura 10: Print da tela de clientes pronta pt1. (Fonte: Autor, 2023)</figcaption>
+
+![Mensagens de erro depois pt2](../assets/development/mensagensCorretas.jpeg)
+
+<figcaption align="center">Figura 11: Print da tela de clientes pronta pt2. (Fonte: Autor, 2023)</figcaption>
+
 
 ---
 
