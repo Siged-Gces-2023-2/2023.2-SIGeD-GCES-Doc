@@ -17,7 +17,7 @@
 | [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima |
 | [#X]() | Descrição da issue | Laís Aguiar e Ana Júlia |
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito |
-| [#X]() | Descrição da issue | Bruno Oliveira e Gustavo Barbosa |
+| [#4](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | Incluir atendimentos dentro da demanda | Bruno Oliveira e Gustavo Barbosa |
 | [#X]() | Descrição da issue | Artur Sousa e Débora Caires |
 
 <figcaption align="center">Tabela 1: Issues planejadas na sprint. (Fonte: Autor, 2023)</figcaption>
@@ -36,7 +36,7 @@
 | [#9](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | Impressão de Relatório de Demandas na Tela de Perfil do Cliente | Lucas Lopes e Davi Lima | Concluída |
 | [#8](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) | Descrição da issue | Laís Aguiar e Ana Júlia | Concluída |
 | [#3](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | Criar o relatório do Inventário dos itens patrimoniais do SIGED | Bianca Sofia e Guilherme Brito | Concluída |
-| [#X]() | Descrição da issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
+| [#4](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | Incluir atendimentos dentro da demanda | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#X]() | Descrição da issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
 
 <figcaption align="center">Tabela 2: Issues finalizadas com sucesso na sprint. (Fonte: Autor, 2023)</figcaption>
@@ -96,12 +96,13 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Bruno Oliveira e Gustavo Barbosa
-- **ID e Descrição do PR:** [#Y - Descrição do PR]()
-- **ID e Descrição da Issue:** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do PR:** [#27 - Incluir atendimentos dentro da demanda](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/27) e [#8 - Incluir atendimentos dentro da demanda](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/8)
+- **ID e Descrição da Issue:** [#4 - Incluir atendimentos dentro da demanda](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4)
+- **Data do PR:** 19/10/2023
 - **Screenshot:**
 
-![Pull Request #Y]()
+![Pull Request #27](../assets/pullRequests/pull_27.png)
+![Pull Request #8](../assets/pullRequests/pull_demands_8.png)
 
 <figcaption align="center">Figura 5: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
