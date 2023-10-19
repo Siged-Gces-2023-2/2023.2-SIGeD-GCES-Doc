@@ -147,7 +147,8 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 ## Conclusão
-Escrever uma reflexão simples e direta sobre a sprint em questão. Experiências, dificuldades, melhorias...
+
+Considerando o tempo mais curto da sprint as duplas conseguiram desenvolver de forma satisfatória as issues a qual foram alocadas. Tivemos 1 PR já integrado ao sistema e outros que ainda estão em fase de draft. Algumas dificuldades que valem ser citadas são em relação ao atraso para a comunicação com o mantenedor, dificuldades com questões internar do sistema(EsLint e Login) e poucas issues para serem distribuidas.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor |
