@@ -71,12 +71,13 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Laís Aguiar e Ana Júlia
-- **ID e Descrição do PR:** [#26 - Correcoes e melhorias em Demandas e Cargos]()
+- **ID e Descrição do PR:** [#26 - Correcoes e melhorias em Demandas e Cargos](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/26)
+- **ID e Descrição do PR:** [#10 - Correcoes de bug ao desativar/deletar Cargo](https://github.com/DITGO/2021-2-SiGeD-Cargos/pull/10)
 - **ID e Descrição da Issue:** [#8 - Correção de Erros e Melhorias](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8)
 - **Data do PR:** 19/10/2023
 - **Screenshot:**
 
-![Pull Request #26](../assets/pullRequests/pull_26.jpeg)
+![Pull Request #26](../assets/pullRequests/pull_26.png)
 
 <figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
