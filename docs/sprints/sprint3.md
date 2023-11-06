@@ -67,7 +67,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ![Merge Pull Request #11](../assets/pullRequests/pull_teste2.jpeg)
 
-<figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 3: Pull Request da issue #11. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
