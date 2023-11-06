@@ -17,7 +17,7 @@
 | :--: | :-----: | :----------: | :----: |
 | [#1](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | Criar relatório Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
 | [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | Criar gráfico Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
-| [#X]() | Descrição da Issue | Bianca Sofia e Guilherme Brito | Não iniciada/Em andamento/Concluída |
+| [#11](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) | Aumentar cobertura de testes em Cargos | Bianca Sofia e Guilherme Brito | Concluída |
 | [#X]() | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
@@ -53,18 +53,19 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ![Pull Request #Y](../assets/pullRequests/)
 
-<figcaption align="center">Figura 2: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 2: Pull Request da issue #11. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
 - **Autores:** Bianca Sofia e Guilherme Brito
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do(s) PR(s):** [#11 - Adição de testes do validador para aumentar cobertura de testes](https://github.com/DITGO/2021-2-SiGeD-Cargos/pull/11)
+- **ID e Descrição da(s) Issue(s):** [#11 - Aumentar cobertura de testes em Cargos](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11)
+- **Data do PR:** 05/11/2023
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #11](../assets/pullRequests/pull_teste.jpeg)
 
+![Merge Pull Request #11](../assets/pullRequests/pull_teste2.jpeg)
 
 <figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
@@ -101,4 +102,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 05/11/2023 | Criação inicial do documento | Lucas Lopes |
-
+| 1.1 | 06/11/2023 | Adição de novo PR | Bianca Sofia |
