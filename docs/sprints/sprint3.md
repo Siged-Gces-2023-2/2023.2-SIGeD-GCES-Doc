@@ -24,7 +24,7 @@
 | [#11](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) |           Aumentar cobertura de testes em Cargos            |  Bianca Sofia e Guilherme Brito  |              Concluída              |
 | [#14](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) |             Melhoria no visual da tela de login             | Bruno Oliveira e Gustavo Barbosa |              Concluída              |
 | [#15](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) |   Ajuste de bug visual na tabela de listagem de usuários    | Bruno Oliveira e Gustavo Barbosa |              Concluída              |
-|                                   [#X]()                                    |                     Descrição da Issue                      |     Laís Aguiar e Ana Júlia      | Não iniciada/Em andamento/Concluída |
+| [#13](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/13) |     Correção de erro no Cadastro de Itens patrimoniais      | Laís Aguiar e Ana Júlia      | Concluída |
 |  [#6](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6)  |       Correção da Estatística das Demandas por Setor        |   Artur Sousa e Débora Caires    |              Concluída              |
 
 <figcaption align="center">Tabela 1: Issues executadas na sprint. (Fonte: Autor, 2023)</figcaption>
@@ -53,14 +53,14 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Laís Aguiar e Ana Júlia
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do(s) PR(s):** [#3 - Correção de erro no Cadastro de Itens Patrimoniais](https://github.com/DITGO/2021-2-SiGeD-Patrimonio/pull/3)  
+- **ID e Descrição da(s) Issue(s):** [#13 - Correção de Erro no Cadastro de Itens patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/13)
+- **Data do PR:** 06/11/2023
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #3 - Patrimônio](2023.2-SIGeD-GCES-Doc/docs/assets/pullRequests/pull-03-patrimonio.png)
 
-<figcaption align="center">Figura 2: Pull Request da issue #11. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 2: Pull Request da issue #03 de patrimônio (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -114,8 +114,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ## Conclusão
 
-Escrever uma reflexão simples e direta sobre a sprint em questão. Experiências, dificuldades, melhorias...
-
+O grupo conseguiu resolver 7 issues, entre elas, algumas novas criadas pelo Vidal e outras novas que contribuem para a melhoria de usabilidade de usuário. 
 ## Histórico de versão
 
 | Versão |    Data    |          Descrição           |     Autor      |
@@ -125,3 +124,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 |  1.2   | 09/11/2023 |     Correção PR 10 e 28      |   Davi Lima    |
 |  1.3   | 09/11/2023 |    Adicionando PR 31 e 33    | Bruno Oliveira |
 |  1.4   | 09/11/2023 |    Adicionando PR 9 e 30     | Artur de Sousa |
+|  1.5   | 09/11/2023 |    Novo PR 03 - Patrimõnio  e adição da conclusão  | Laís e Ana Júlia|
