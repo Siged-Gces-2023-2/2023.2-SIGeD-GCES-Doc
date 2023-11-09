@@ -21,7 +21,7 @@
 | [#14](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#15](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
-| [#X]() | Descrição da Issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
+| [#6](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6) | Correção da Estatística das Demandas por Setor | Artur Sousa e Débora Caires | Concluída |
 
 <figcaption align="center">Tabela 1: Issues executadas na sprint. (Fonte: Autor, 2023)</figcaption>
 
@@ -96,12 +96,14 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Artur Sousa e Débora Caires
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do PR:** 
+    - [#9 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/9)
+    - [#30 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/30)
+- **ID e Descrição da(s) Issue(s):** [#6 - Correção da Estatística das Demandas por Setor](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6)
+- **Data do PR:** 06/11/2023
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #30](../assets/pullRequests/pull_30.png)
 
 <figcaption align="center">Figura 5: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
@@ -116,5 +118,6 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | 1.0 | 05/11/2023 | Criação inicial do documento | Lucas Lopes |
 | 1.1 | 06/11/2023 | Adição de novo PR | Bianca Sofia |
 | 1.2 | 09/11/2023 | Correção PR 10 e 28 | Davi Lima |
-| 1.3 | 09/11/2023 | Adicionando PR 30 e 31 | Bruno Oliveira |
+| 1.3 | 09/11/2023 | Adicionando PR 31 e 33 | Bruno Oliveira |
+| 1.4 | 09/11/2023 | Adicionando PR 9 e 30 | Artur de Sousa |
 
