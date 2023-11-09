@@ -1,49 +1,52 @@
 # Sprint 3
 
 ## Duração
+
 - Início: 24/10/2023
 - Término: 07/11/2023
 
 ## Planejamento
+
 - Dividir pareamentos;
 - Cada pareamento responsável por escolher e desenvolver uma issue.
 
 ## Execução
+
 - Dividimos os pareamentos;
 - Cada pareamento escolheu e iniciou o desenvolvimento de uma issue, por responsabilidade própria.
 
 ### Issues executadas e pareamentos
-| ID | Descrição | Responsáveis | Status |
-| :--: | :-----: | :----------: | :----: |
-| [#1](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | Criar relatório Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
-| [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | Criar gráfico Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
-| [#11](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) | Aumentar cobertura de testes em Cargos | Bianca Sofia e Guilherme Brito | Concluída |
-| [#14](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Concluída |
-| [#15](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Concluída |
-| [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
-| [#6](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6) | Correção da Estatística das Demandas por Setor | Artur Sousa e Débora Caires | Concluída |
+
+|                                     ID                                      |                          Descrição                          |           Responsáveis           |               Status                |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------: | :------------------------------: | :---------------------------------: |
+|  [#1](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1)  | Criar relatório Estatístico de Demandas por Características |     Lucas Lopes e Davi Lima      |              Concluída              |
+|  [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2)  |  Criar gráfico Estatístico de Demandas por Características  |     Lucas Lopes e Davi Lima      |              Concluída              |
+| [#11](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) |           Aumentar cobertura de testes em Cargos            |  Bianca Sofia e Guilherme Brito  |              Concluída              |
+| [#14](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) |             Melhoria no visual da tela de login             | Bruno Oliveira e Gustavo Barbosa |              Concluída              |
+| [#15](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) |   Ajuste de bug visual na tabela de listagem de usuários    | Bruno Oliveira e Gustavo Barbosa |              Concluída              |
+|                                   [#X]()                                    |                     Descrição da Issue                      |     Laís Aguiar e Ana Júlia      | Não iniciada/Em andamento/Concluída |
+|  [#6](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6)  |       Correção da Estatística das Demandas por Setor        |   Artur Sousa e Débora Caires    |              Concluída              |
 
 <figcaption align="center">Tabela 1: Issues executadas na sprint. (Fonte: Autor, 2023)</figcaption>
 
 ### Pull Requests
+
 A seguir informamos os PRs feitos pelos integrantes junto às suas informações.
 
 ---
 
 - **Autores:** Lucas Lopes e Davi Lima
 - **ID e Descrição do(s) PR(s):**
-    - [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28)
-    - [#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10)
+  - [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28)
+  - [#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10)
 - **ID e Descrição da(s) Issue(s):**
-    - [#1 - Criar relatório Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1)
-    - [#2 - Criar gráfico Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2)
+  - [#1 - Criar relatório Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1)
+  - [#2 - Criar gráfico Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2)
 - **Data do PR:** 19/10/2023
 - **Screenshot:**
 
 ![Pull Request 10](https://github.com/DITGO/2021-2-SiGeD-Demands/assets/79341819/ab244e74-ad4e-4d17-931e-831283967db9)
 ![image](https://github.com/DITGO/2021-2-SiGeD-Demands/assets/79341819/327a9133-789d-4e69-8f37-400dfb33a1a8)
-
-
 
 <figcaption align="center">Figura 1: Pull Request da issue #1 e #2. (Fonte: Autor, 2023)</figcaption>
 
@@ -76,12 +79,12 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Bruno Oliveira e Gustavo Barbosa
-- **ID e Descrição do(s) PR(s):** 
-    - [#31 - Alterando estilização da tela de login](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/31)
-    - [#33 - Ajuste de bug visual na listagem de usuários](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/33)
-- **ID e Descrição da(s) Issue(s):** 
-    - [#14 - Melhoria no estilo da página de login](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14)
-    - [#15 - Ajuste bug visual na lista de usuários](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15)
+- **ID e Descrição do(s) PR(s):**
+  - [#31 - Alterando estilização da tela de login](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/31)
+  - [#33 - Ajuste de bug visual na listagem de usuários](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/33)
+- **ID e Descrição da(s) Issue(s):**
+  - [#14 - Melhoria no estilo da página de login](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14)
+  - [#15 - Ajuste bug visual na lista de usuários](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15)
 - **Data do PR:** 09/11/2023
 - **Screenshot:**
 
@@ -92,13 +95,13 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ![Pull Request #33](../assets/pullRequests/pr_listScreen.png)
 
 ![imagem](../assets/development/newUserScreen.png)
-<figcaption align="center">Figura 4: Pull Request das issues #31 e #33. (Fonte: Autor, 2023)</figcaption>
----
+
+## <figcaption align="center">Figura 4: Pull Request das issues #31 e #33. (Fonte: Autor, 2023)</figcaption>
 
 - **Autores:** Artur Sousa e Débora Caires
-- **ID e Descrição do PR:** 
-    - [#9 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/9)
-    - [#30 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/30)
+- **ID e Descrição do PR:**
+  - [#9 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/9)
+  - [#30 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/30)
 - **ID e Descrição da(s) Issue(s):** [#6 - Correção da Estatística das Demandas por Setor](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6)
 - **Data do PR:** 06/11/2023
 - **Screenshot:**
@@ -110,14 +113,15 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 ## Conclusão
+
 Escrever uma reflexão simples e direta sobre a sprint em questão. Experiências, dificuldades, melhorias...
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor |
-| :----: | :--: | :-------: | :---: |
-| 1.0 | 05/11/2023 | Criação inicial do documento | Lucas Lopes |
-| 1.1 | 06/11/2023 | Adição de novo PR | Bianca Sofia |
-| 1.2 | 09/11/2023 | Correção PR 10 e 28 | Davi Lima |
-| 1.3 | 09/11/2023 | Adicionando PR 31 e 33 | Bruno Oliveira |
-| 1.4 | 09/11/2023 | Adicionando PR 9 e 30 | Artur de Sousa |
 
+| Versão |    Data    |          Descrição           |     Autor      |
+| :----: | :--------: | :--------------------------: | :------------: |
+|  1.0   | 05/11/2023 | Criação inicial do documento |  Lucas Lopes   |
+|  1.1   | 06/11/2023 |      Adição de novo PR       |  Bianca Sofia  |
+|  1.2   | 09/11/2023 |     Correção PR 10 e 28      |   Davi Lima    |
+|  1.3   | 09/11/2023 |    Adicionando PR 31 e 33    | Bruno Oliveira |
+|  1.4   | 09/11/2023 |    Adicionando PR 9 e 30     | Artur de Sousa |
