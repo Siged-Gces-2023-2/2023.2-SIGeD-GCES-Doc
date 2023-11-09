@@ -18,7 +18,8 @@
 | [#1](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | Criar relatório Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
 | [#2](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | Criar gráfico Estatístico de Demandas por Características | Lucas Lopes e Davi Lima | Concluída |
 | [#11](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) | Aumentar cobertura de testes em Cargos | Bianca Sofia e Guilherme Brito | Concluída |
-| [#X]() | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
+| [#14](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Concluída |
+| [#15](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
 
@@ -75,15 +76,23 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Bruno Oliveira e Gustavo Barbosa
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do(s) PR(s):** 
+    - [#31 - Alterando estilização da tela de login](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/31)
+    - [#33 - Ajuste de bug visual na listagem de usuários](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/33)
+- **ID e Descrição da(s) Issue(s):** 
+    - [#14 - Melhoria no estilo da página de login](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14)
+    - [#15 - Ajuste bug visual na lista de usuários](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15)
+- **Data do PR:** 09/11/2023
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #31](../assets/pullRequests/pr_loginScreen.png)
 
-<figcaption align="center">Figura 4: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+![imagem](../assets/development/newLoginScreen.png)
 
+![Pull Request #33](../assets/pullRequests/pr_listScreen.png)
+
+![imagem](../assets/development/newUserScreen.png)
+<figcaption align="center">Figura 4: Pull Request das issues #31 e #33. (Fonte: Autor, 2023)</figcaption>
 ---
 
 - **Autores:** Artur Sousa e Débora Caires
@@ -107,4 +116,5 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | 1.0 | 05/11/2023 | Criação inicial do documento | Lucas Lopes |
 | 1.1 | 06/11/2023 | Adição de novo PR | Bianca Sofia |
 | 1.2 | 09/11/2023 | Correção PR 10 e 28 | Davi Lima |
+| 1.3 | 09/11/2023 | Adicionando PR 30 e 31 | Bruno Oliveira |
 
