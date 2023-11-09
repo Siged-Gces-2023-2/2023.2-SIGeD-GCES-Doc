@@ -32,13 +32,16 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Autores:** Lucas Lopes e Davi Lima
 - **ID e Descrição do(s) PR(s):**
     - [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28)
+    - [#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10)
 - **ID e Descrição da(s) Issue(s):**
     - [#1 - Criar relatório Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1)
     - [#2 - Criar gráfico Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2)
 - **Data do PR:** 19/10/2023
 - **Screenshot:**
 
-![Pull Resquest 28](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/assets/79341819/716e0871-2340-46a7-9aaa-68a924ad5d7c)
+![Pull Request 10](https://github.com/DITGO/2021-2-SiGeD-Demands/assets/79341819/ab244e74-ad4e-4d17-931e-831283967db9)
+![image](https://github.com/DITGO/2021-2-SiGeD-Demands/assets/79341819/327a9133-789d-4e69-8f37-400dfb33a1a8)
+
 
 
 <figcaption align="center">Figura 1: Pull Request da issue #1 e #2. (Fonte: Autor, 2023)</figcaption>
@@ -103,3 +106,5 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 05/11/2023 | Criação inicial do documento | Lucas Lopes |
 | 1.1 | 06/11/2023 | Adição de novo PR | Bianca Sofia |
+| 1.2 | 09/11/2023 | Correção PR 10 e 28 | Davi Lima |
+
