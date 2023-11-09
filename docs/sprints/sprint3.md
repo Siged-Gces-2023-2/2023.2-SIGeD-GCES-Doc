@@ -58,7 +58,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Data do PR:** 06/11/2023
 - **Screenshot:**
 
-![Pull Request #3 - Patrimônio](2023.2-SIGeD-GCES-Doc/docs/assets/pullRequests/pull-03-patrimonio.png)
+![Pull Request #3 - Patrimônio](../assets/pullRequests/pull-03-patrimonio.png)
 
 <figcaption align="center">Figura 2: Pull Request da issue #03 de patrimônio (Fonte: Autor, 2023)</figcaption>
 
