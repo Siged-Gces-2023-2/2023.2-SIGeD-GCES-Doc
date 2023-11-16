@@ -16,7 +16,7 @@
 | ID | Descrição | Responsáveis | Status |
 | :--: | :-----: | :----------: | :----: |
 | [#16](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/16) | Ajustar o posicionamento do botão Gerar PDF na tela de Patrimônio | Lucas Lopes e Davi Lima | Concluída |
-| [#X]() | Descrição da Issue | Bianca Sofia e Guilherme Brito | Não iniciada/Em andamento/Concluída |
+| [#17](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/17) | Aumentar cobertura de testes em demands | Bianca Sofia | Em andamento |
 | [#X]() | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Lucas Lopes e Davi Lima | Não iniciada/Em andamento/Concluída |
@@ -54,16 +54,16 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ---
 
-- **Autores:** Bianca Sofia e Guilherme Brito
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
+- **Autores:** Bianca Sofia Brasil
+- **ID e Descrição do(s) PR(s):** Issue sem PR, pois está em andamento.
+- **ID e Descrição da(s) Issue(s):** [#17 - Aumentar cobertura de testes em demands](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/17)
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #Y](../assets/development/cobertura_demands.jpeg)
 
 
-<figcaption align="center">Figura 3: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 3: Cobertura de testes anterior #17. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -98,3 +98,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 13/11/2023 | Documentação inicial | Lucas Lopes |
+| 1.2 | 16/11/2023 | Adicionando prints e issue | Bianca Sofia |
