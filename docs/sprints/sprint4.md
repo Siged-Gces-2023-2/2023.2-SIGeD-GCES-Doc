@@ -17,7 +17,7 @@
 | :--: | :-----: | :----------: | :----: |
 | [#16](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/16) | Ajustar o posicionamento do botão Gerar PDF na tela de Patrimônio | Lucas Lopes e Davi Lima | Concluída |
 | [#17](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/17) | Aumentar cobertura de testes em demands | Bianca Sofia | Em andamento |
-| [#X]() | Descrição da Issue | Bruno Oliveira e Gustavo Barbosa | Não iniciada/Em andamento/Concluída |
+| [#18](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18) | Erro no cadastro de itens patrimoniais | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Lucas Lopes e Davi Lima | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
@@ -68,14 +68,14 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Bruno Oliveira e Gustavo Barbosa
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
+- **ID e Descrição do(s) PR(s):** [#5 - Corrigindo erro no Cadastro de Itens Patrimoniais](https://github.com/DITGO/2021-2-SiGeD-Patrimonio/pull/5)
+- **ID e Descrição da(s) Issue(s):** [#18 - Erro no Cadastro de Itens Patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18)
 - **Data do PR:** dd/mm/aaaa
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #5](../assets/pullRequests/pull-05-patrimonio.png)
 
-<figcaption align="center">Figura 4: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 4: Pull Request da issue #18. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
