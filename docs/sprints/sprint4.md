@@ -70,7 +70,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 - **Autores:** Bruno Oliveira e Gustavo Barbosa
 - **ID e Descrição do(s) PR(s):** [#5 - Corrigindo erro no Cadastro de Itens Patrimoniais](https://github.com/DITGO/2021-2-SiGeD-Patrimonio/pull/5)
 - **ID e Descrição da(s) Issue(s):** [#18 - Erro no Cadastro de Itens Patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18)
-- **Data do PR:** dd/mm/aaaa
+- **Data do PR:** 15/11/2023
 - **Screenshot:**
 
 ![Pull Request #5](../assets/pullRequests/pull-05-patrimonio.png)
