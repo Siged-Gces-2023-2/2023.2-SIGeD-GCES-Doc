@@ -18,7 +18,8 @@
 | [#16](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/16) | Ajustar o posicionamento do botão Gerar PDF na tela de Patrimônio | Lucas Lopes e Davi Lima | Concluída |
 | [#17](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/17) | Aumentar cobertura de testes em demands | Bianca Sofia | Em andamento |
 | [#18](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18) | Erro no cadastro de itens patrimoniais | Bruno Oliveira e Gustavo Barbosa | Concluída |
-| [#X]() | Descrição da Issue | Laís Aguiar e Ana Júlia | Não iniciada/Em andamento/Concluída |
+| [#12](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/12) | Incluir um temporizador nas pesquisas  | Laís Aguiar e Ana Júlia | Concluída |
+| [#20](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/20) | Correção de problema no ESLint em patrimonio  | Laís Aguiar e Ana Júlia | Em andamento |
 | [#X]() | Descrição da Issue | Lucas Lopes e Davi Lima | Não iniciada/Em andamento/Concluída |
 | [#X]() | Descrição da Issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
 
@@ -43,12 +44,17 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ---
 
 - **Autores:** Laís Aguiar e Ana Júlia
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
+- **ID e Descrição do(s) PR(s):** 
+    - [#35 - Incluir temporizador](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/35)
+    - [#4 -Corrreção de problema no ESlint](https://github.com/DITGO/2021-2-SiGeD-Patrimonio/pull/4)
+- **ID e Descrição da(s) Issue(s):** 
+    - [#12 - Incluir um temporizador nas pesquisas](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/12)
+    - [#20 - Correção de problema no ESLint em patrimônio](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/20)
+- **Data do PR:** 15/11/2023
 - **Screenshot:**
 
-![Pull Request #Y](../assets/pullRequests/)
+![Pull Request #35](../assets/pullRequests/pr-35.png)
+![Pull Request #4](../assets/pullRequests/pr-4-patrimonio.png)
 
 <figcaption align="center">Figura 2: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
 
@@ -99,3 +105,4 @@ Escrever uma reflexão simples e direta sobre a sprint em questão. Experiência
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 13/11/2023 | Documentação inicial | Lucas Lopes |
 | 1.2 | 16/11/2023 | Adicionando prints e issue | Bianca Sofia |
+| 1.3 | 16/11/2023 | Adicionando prints e issue | Laís Portela |
