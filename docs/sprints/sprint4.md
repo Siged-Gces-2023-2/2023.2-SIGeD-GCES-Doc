@@ -20,8 +20,6 @@
 | [#18](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18) | Erro no cadastro de itens patrimoniais | Bruno Oliveira e Gustavo Barbosa | Concluída |
 | [#12](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/12) | Incluir um temporizador nas pesquisas  | Laís Aguiar e Ana Júlia | Concluída |
 | [#20](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/20) | Correção de problema no ESLint em patrimonio  | Laís Aguiar e Ana Júlia | Em andamento |
-| [#X]() | Descrição da Issue | Lucas Lopes e Davi Lima | Não iniciada/Em andamento/Concluída |
-| [#X]() | Descrição da Issue | Artur Sousa e Débora Caires | Não iniciada/Em andamento/Concluída |
 
 <figcaption align="center">Tabela 1: Issues executadas na sprint. (Fonte: Autor, 2023)</figcaption>
 
@@ -56,7 +54,7 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 ![Pull Request #35](../assets/pullRequests/pr-35.png)
 ![Pull Request #4](../assets/pullRequests/pr-4-patrimonio.png)
 
-<figcaption align="center">Figura 2: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Figura 2: Pull Request das issues #12 e #20. (Fonte: Autor, 2023)</figcaption>
 
 ---
 
@@ -85,20 +83,8 @@ A seguir informamos os PRs feitos pelos integrantes junto às suas informações
 
 ---
 
-- **Autores:** Artur Sousa e Débora Caires
-- **ID e Descrição do(s) PR(s):** [#Y - Descrição do PR]()
-- **ID e Descrição da(s) Issue(s):** [#X - Descrição da Issue]()
-- **Data do PR:** dd/mm/aaaa
-- **Screenshot:**
-
-![Pull Request #Y](../assets/pullRequests/)
-
-<figcaption align="center">Figura 5: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
-
----
-
 ## Conclusão
-Escrever uma reflexão simples e direta sobre a sprint em questão. Experiências, dificuldades, melhorias...
+O grupo conseguiu resolver 3 issues e 2 em andamento. Entre elas, algumas novas criadas pelo mantenedor e outras novas que contribuem para a melhoria de usabilidade e segurança. Os integrantes Artur Sousa, Débora Caires e Guilherme Brito não contribuíram para essa sprint.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor |
