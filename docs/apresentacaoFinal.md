@@ -36,70 +36,69 @@
 
 <figcaption align="center">Tabela 1: Datas de início e fim das sprints. (Fonte: Autor, 2023)</figcaption>
 
-## Issues e PRs por Pareamento
-
 ### Sprint 1
-Descrever aqui o que foi feito na sprint 1 já que não tivemos issues resolvidas nem PRs.
+\> Clique [AQUI](sprints/sprint1.md) para acessar a documentação da Sprint 1.
 
-### Lucas Lopes e Davi Lima
+<p align="justify">Nessa sprint a equipe focou no entendimento da aplicação e sua arquitetura, além de subir e rodar o projeto em suas máquinas. Os integrantes do grupo relataram dificuldades de entendimento das diversas documentações e suas versões. Algumas diculdades com docker e sistema operacional ocorreram, o que acarretou na perda de tempo para subir o ambiente e, consequentemente, no desenvolvimento de issues.</p>
 
-| Sprint | Issue | Pull Request |
-| :----: | :---- | :----------- |
-| 1 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 2 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 3 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 4 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 5 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
+| Issue | Pull Request | Responsáveis | Status |
+| :---: | :----------: | :----------: | :----: |
+| [#5 - Relatório de todas as demandas por cliente](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5) | [#24 - Adição de imprimir todas as demandas por cliente](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/24)  | Lucas Lopes e Davi Lima | Aceito |
 
-<figcaption align="center">Tabela 2: Issues e PRs de Lucas e Davi. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Tabela 2: Issues e PRs da sprint 1. (Fonte: Autor, 2023)</figcaption>
 
-### Bianca Sofia e Guilherme Brito
+### Sprint 2
+\> Clique [AQUI](sprints/sprint2.md) para acessar a documentação da Sprint 2.
 
-| Sprint | Issue | Pull Request |
-| :----: | :---- | :----------- |
-| 1 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 2 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 3 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 4 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 5 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
+| Issue | Pull Request | Responsáveis | Status |
+| :---: | :----------: | :----------: | :----: |
+| [#9 - Impressão de Relatório de Demandas na Tela de Perfil do Cliente](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | [#24 - Adição de imprimir todas as demandas por cliente](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/24) | Lucas Lopes e Davi Lima | Aceito |
+| [#3 - Criar o relatório do Inventário dos itens patrimoniais do SIGED](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) |  | Bianca Sofia e Guilherme Brito | Aceito/Não aceito |
+| [#4 - Incluir atendimentos dentro da demanda](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito |
+| [#8 - Correção de Erros e Melhorias](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) |  | Laís Aguiar e Ana Júlia | Aceito/Não aceito |
+| [#10 - Correção página de clientes](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10) |  | Artur Sousa e Débora Caires | Aceito/Não aceito |
 
-<figcaption align="center">Tabela 3: Issues e PRs de Bianca e Guilherme. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Tabela 3: Issues e PRs da sprint 2. (Fonte: Autor, 2023)</figcaption>
 
-### Bruno Oliveira e Gustavo Barbosa
+### Sprint 3
+\> Clique [AQUI](sprints/sprint3.md) para acessar a documentação da Sprint 3.
 
-| Sprint | Issue | Pull Request |
-| :----: | :---- | :----------- |
-| 1 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 2 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 3 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 4 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 5 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
+| Issue | Pull Request | Responsáveis | Status |
+| :---: | :----------: | :----------: | :----: |
+| [#1 - Criar relatório Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28) (Frontend)<br>[#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10) (Demands) | Lucas Lopes e Davi Lima | Aceitos |
+| [#2 - Criar gráfico Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28) (Frontend)<br>[#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10) (Demands) | Lucas Lopes e Davi Lima | Aceitos |
+| [#11 - Aumentar cobertura de testes em Cargos](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) |  | Bianca Sofia e Guilherme Brito | Aceito/Não aceito |
+| [#14 - Melhoria no visual da tela de login](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito |
+| [#15 - Ajuste de bug visual na tabela de listagem de usuários](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito  |
+| [#13 - Correção de erro no Cadastro de Itens patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/13) |  | Laís Aguiar e Ana Júlia | Aceito/Não aceito |
+| [#6 - Correção da Estatística das Demandas por Setor](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6) |  | Artur Sousa e Débora Caires | Aceito/Não aceito |
 
-<figcaption align="center">Tabela 4: Issues e PRs de Bruno e Gustavo. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Tabela 4: Issues e PRs da sprint 3. (Fonte: Autor, 2023)</figcaption>
 
-### Laís Aguiar e Ana Júlia
+### Sprint 4
+\> Clique [AQUI](sprints/sprint4.md) para acessar a documentação da Sprint 4.
 
-| Sprint | Issue | Pull Request |
-| :----: | :---- | :----------- |
-| 1 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 2 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 3 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 4 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 5 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
+| Issue | Pull Request | Responsáveis | Status |
+| :---: | :----------: | :----------: | :----: |
+| [#16 - Ajustar o posicionamento do botão Gerar PDF na tela de Patrimônio](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/16) | [#34 - Ajuste do posicionamento do botão Gerar PDF na tela de Patrimônio](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/34) | Lucas Lopes e Davi Lima | Aceito |
+| [#17 - Aumentar cobertura de testes em demands](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/17) |  | Bianca Sofia | Em andamento |
+| [#18 - Erro no cadastro de itens patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito |
+| [#12 - Incluir um temporizador nas pesquisas](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/12) |  | Laís Aguiar e Ana Júlia | Aceito/Não aceito |
+| [#20 - Correção de problema no ESLint em patrimonio](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/20) |  | Laís Aguiar e Ana Júlia | Em andamento |
 
-<figcaption align="center">Tabela 5: Issues e PRs de Laís e Ana. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Tabela 5: Issues e PRs da sprint 4. (Fonte: Autor, 2023)</figcaption>
 
-### Artur Sousa e Débora Caires
+### Sprint 5
+\> Clique [AQUI](sprints/sprint5.md) para acessar a documentação da Sprint 5.
 
-| Sprint | Issue | Pull Request |
-| :----: | :---- | :----------- |
-| 1 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 2 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 3 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 4 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
-| 5 | [#X - Descrição da Issue]() | [#Y - Descrição do PR]() |
+| Issue | Pull Request | Responsáveis | Status |
+| :---: | :----------: | :----------: | :----: |
+| [#22 - Aplicar princípios do Clean Code em Demands](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/22) | [#12 - Aplicação de princípios do Clean Code em CategoryController e AlertController](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/12) | Lucas Lopes e Davi Lima | Aceito |
+| [#19 - Erro na validação do CPF no cadastro do cliente](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/19) |  | Bianca Sofia e Laís Portela | Aceito/Não aceito |
+| [#23 - Aplicar princípios do Clean Code em Clients](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/23) |  | Bianca Sofia e Laís Portela  | Aceito/Não aceito |
+| [#24 - Aplicar princípios do Clean Code em Users](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/24) |  | Artur Sousa e Débora Caires | Aceito/Não aceito |
 
-<figcaption align="center">Tabela 6: Issues e PRs de Artur e Débora. (Fonte: Autor, 2023)</figcaption>
+<figcaption align="center">Tabela 6: Issues e PRs da sprint 5. (Fonte: Autor, 2023)</figcaption>
 
 
 ## Desenvolvimento
@@ -107,7 +106,7 @@ Descrever aqui o que foi feito na sprint 1 já que não tivemos issues resolvida
 
 | Pareamentos | Commits | Issues resolvidas | PRs aceitos |
 | :---------: | :-----: | :---------------: | :---------: |
-| Lucas Lopes e Davi Lima | 99 | 99 | 99 |
+| Lucas Lopes e Davi Lima | 18 | 6 | 5 |
 | Bianca Sofia e Guilherme Brito | 99 | 99 | 99 |
 | Bruno Oliveira e Gustavo Barbosa | 99 | 99 | 99 |
 | Laís Aguiar e Ana Júlia | 99 | 99 | 99 |
@@ -130,3 +129,4 @@ Descrever aqui as dificuldades enfrentadas ao longo do projeto.
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: |
 | 1.0 | 20/11/2023 | Criação inicial do documento | Lucas Lopes |
+| 1.1 | 18/12/2023 | Reestruturação da apresentação | Lucas Lopes |
