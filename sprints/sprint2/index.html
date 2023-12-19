@@ -1,0 +1,1098 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../sprint1/">
+      
+      
+        <link rel="next" href="../sprint3/">
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.2">
+    
+    
+      
+        <title>Sprint 2 - SIGeD - GCES</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.50c56a3b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,700,700i%7Csans-serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Montserrat";--md-code-font:"sans-serif"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#sprint-2" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="SIGeD - GCES" class="md-header__button md-logo" aria-label="SIGeD - GCES" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            SIGeD - GCES
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Sprint 2
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2023.2-SIGeD-GCES-Doc
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Início
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../sprint1/" class="md-tabs__link">
+          
+  
+  Sprints
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../apresentacaoFinal/" class="md-tabs__link">
+        
+  
+    
+  
+  Apresentação Final
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="SIGeD - GCES" class="md-nav__button md-logo" aria-label="SIGeD - GCES" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    SIGeD - GCES
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2023.2-SIGeD-GCES-Doc
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Início
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Sprints
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Sprints
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sprint1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprint 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Sprint 2
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Sprint 2
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#duracao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Duração
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#planejamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      Planejamento
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Planejamento">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#issues-planejadas-e-pareamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Issues planejadas e pareamentos
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#execucao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Execução
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Execução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#issues-executadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Issues executadas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pull Requests
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#desenvolvimento" class="md-nav__link">
+    <span class="md-ellipsis">
+      Desenvolvimento
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sprint3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprint 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sprint4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprint 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sprint5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprint 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacaoFinal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação Final
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#duracao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Duração
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#planejamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      Planejamento
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Planejamento">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#issues-planejadas-e-pareamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Issues planejadas e pareamentos
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#execucao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Execução
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Execução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#issues-executadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Issues executadas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pull Requests
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#desenvolvimento" class="md-nav__link">
+    <span class="md-ellipsis">
+      Desenvolvimento
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="sprint-2">Sprint 2</h1>
+<h2 id="duracao">Duração</h2>
+<ul>
+<li>Início: 10/10/2023</li>
+<li>Término: 19/10/2023</li>
+</ul>
+<h2 id="planejamento">Planejamento</h2>
+<ul>
+<li>Dividir pareamentos;</li>
+<li>Cada pareamento responsável por escolher e desenvolver uma issue;</li>
+<li>Criação de um meio de comunicação com o mantenedor;</li>
+<li>Reunião com o mantenedor para alinhar as issues e pull requests.</li>
+</ul>
+<h3 id="issues-planejadas-e-pareamentos">Issues planejadas e pareamentos</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">ID</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2">#2</a></td>
+<td style="text-align: center;">Criar gráfico Estatístico de Demandas por Características</td>
+<td style="text-align: center;">Lucas Lopes e Davi Lima</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9">#9</a></td>
+<td style="text-align: center;">Impressão de Relatório de Demandas na Tela de Perfil do Cliente</td>
+<td style="text-align: center;">Lucas Lopes e Davi Lima</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="">#X</a></td>
+<td style="text-align: center;">Descrição da issue</td>
+<td style="text-align: center;">Laís Aguiar e Ana Júlia</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3">#3</a></td>
+<td style="text-align: center;">Criar o relatório do Inventário dos itens patrimoniais do SIGED</td>
+<td style="text-align: center;">Bianca Sofia e Guilherme Brito</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="">#X</a></td>
+<td style="text-align: center;">Descrição da issue</td>
+<td style="text-align: center;">Bruno Oliveira e Gustavo Barbosa</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="">#X</a></td>
+<td style="text-align: center;">Descrição da issue</td>
+<td style="text-align: center;">Artur Sousa e Débora Caires</td>
+</tr>
+</tbody>
+</table>
+<figcaption align="center">Tabela 1: Issues planejadas na sprint. (Fonte: Autor, 2023)</figcaption>
+
+<h2 id="execucao">Execução</h2>
+<ul>
+<li>Dividimos os pareamentos;</li>
+<li>Cada pareamento escolheu e iniciou o desenvolvimento de uma issue, por responsabilidade própria;</li>
+<li>Criamos um canal no Discord para comunicação direta com o mantenedor. Além da possibilidade de chamada, também existem os chats para rápida comunicação;</li>
+<li>Reunião feita com o mantenedor às 20h do dia 17/10/2023.</li>
+</ul>
+<h3 id="issues-executadas">Issues executadas</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">ID</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2">#2</a></td>
+<td style="text-align: center;">Criar gráfico Estatístico de Demandas por Características</td>
+<td style="text-align: center;">Lucas Lopes e Davi Lima</td>
+<td style="text-align: center;">Em andamento</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3">#3</a></td>
+<td style="text-align: center;">Criar o relatório do Inventário dos itens patrimoniais do SIGED</td>
+<td style="text-align: center;">Bianca Sofia e Guilherme Brito</td>
+<td style="text-align: center;">Concluída</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4">#4</a></td>
+<td style="text-align: center;">Incluir atendimentos dentro da demanda</td>
+<td style="text-align: center;">Bruno Oliveira e Gustavo Barbosa</td>
+<td style="text-align: center;">Concluída</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5">#5</a></td>
+<td style="text-align: center;">Relatório de todas as demandas por cliente na tela de demandas</td>
+<td style="text-align: center;">Lucas Lopes e Davi Lima</td>
+<td style="text-align: center;">Concluída</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8">#8</a></td>
+<td style="text-align: center;">Correção de Erros e Melhorias</td>
+<td style="text-align: center;">Laís Aguiar e Ana Júlia</td>
+<td style="text-align: center;">Concluída</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9">#9</a></td>
+<td style="text-align: center;">Impressão de Relatório de Demandas na Tela de Perfil do Cliente</td>
+<td style="text-align: center;">Lucas Lopes e Davi Lima</td>
+<td style="text-align: center;">Concluída</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10">#10</a></td>
+<td style="text-align: center;">Correção página de clientes</td>
+<td style="text-align: center;">Artur Sousa e Débora Caires</td>
+<td style="text-align: center;">Concluída</td>
+</tr>
+</tbody>
+</table>
+<figcaption align="center">Tabela 2: Issues finalizadas com sucesso na sprint. (Fonte: Autor, 2023)</figcaption>
+
+<h3 id="pull-requests">Pull Requests</h3>
+<p>A seguir informamos os PRs feitos pelos integrantes junto às suas informações.</p>
+<hr />
+<ul>
+<li><strong>Autores:</strong> Lucas Lopes e Davi Lima</li>
+<li><strong>ID e Descrição do PR(s):</strong> <a href="https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28">#28 - Adição de gráfico de demandas por caracteristicas</a></li>
+<li><strong>ID e Descrição da(s) Issue(s):</strong> <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2">#2 - Criar gráfico Estatístico de Demandas por Características</a></li>
+<li><strong>Data do PR:</strong> 19/10/2023</li>
+<li><strong>Screenshot:</strong></li>
+</ul>
+<p><img alt="Pull Resquest 28" src="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/assets/79341819/716e0871-2340-46a7-9aaa-68a924ad5d7c" /></p>
+<figcaption align="center">Figura 1: Pull Request da issue #2. (Fonte: Autor, 2023)</figcaption>
+
+<hr />
+<ul>
+<li><strong>Autores:</strong> Lucas Lopes e Davi Lima</li>
+<li><strong>ID e Descrição do(s) PR(s):</strong> <a href="https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/24">#24 - Adição de imprimir todas as demandas por cliente</a> </li>
+<li><strong>ID e Descrição da(s) Issue(s):</strong> <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9">#9 - Impressão de Relatório de Demandas na Tela de Perfil do Cliente</a> e <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/5">#5 - Relatório de todas as demandas por cliente na tela de demandas</a></li>
+<li><strong>Data do PR:</strong> 05/10/2023</li>
+<li><strong>Screenshot:</strong></li>
+</ul>
+<p><img alt="Pull Request #24" src="../../assets/pullRequests/pr24.png" /></p>
+<figcaption align="center">Figura 2: Pull Request das issues #5 e #9. (Fonte: Autor, 2023)</figcaption>
+
+<hr />
+<ul>
+<li><strong>Autores:</strong> Laís Aguiar e Ana Júlia</li>
+<li><strong>ID e Descrição do(s) PR(s):</strong> <a href="https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/26">#26 - Correcoes e melhorias em Demandas e Cargos</a></li>
+<li><strong>ID e Descrição do PR:</strong> <a href="https://github.com/DITGO/2021-2-SiGeD-Cargos/pull/10">#10 - Correcoes de bug ao desativar/deletar Cargo</a></li>
+<li><strong>ID e Descrição da(s) Issue(s):</strong> <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8">#8 - Correção de Erros e Melhorias</a></li>
+<li><strong>Data do PR:</strong> 19/10/2023</li>
+<li><strong>Screenshot:</strong></li>
+</ul>
+<p><img alt="Pull Request #26" src="../../assets/pullRequests/pull_26.png" /></p>
+<figcaption align="center">Figura 3: Pull Request da issue #8. (Fonte: Autor, 2023)</figcaption>
+
+<hr />
+<ul>
+<li><strong>Autores:</strong> Bianca Sofia e Guilherme Brito</li>
+<li><strong>ID e Descrição do(s) PR(s):</strong> <a href="https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/25">#25 - Relatório em PDF contendo o nome e descrição dos itens patrimoniais cadastrados no SIGED.</a></li>
+<li><strong>ID e Descrição da(s) Issue(s):</strong> <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3">#3 - Criar o relatório do Inventário dos itens patrimoniais do SIGED</a></li>
+<li><strong>Data do PR:</strong> 18/10/2023</li>
+<li><strong>Screenshot:</strong></li>
+</ul>
+<p><img alt="Pull Request #25" src="../../assets/pullRequests/pull_25.jpeg" /></p>
+<figcaption align="center">Figura 4: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+
+<hr />
+<ul>
+<li><strong>Autores:</strong> Bruno Oliveira e Gustavo Barbosa</li>
+<li><strong>ID e Descrição do(s) PR(s):</strong> <a href="https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/27">#27 - Incluir atendimentos dentro da demanda</a> e <a href="https://github.com/DITGO/2021-2-SiGeD-Demands/pull/8">#8 - Incluir atendimentos dentro da demanda</a></li>
+<li><strong>ID e Descrição da(s) Issue(s):</strong> <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4">#4 - Incluir atendimentos dentro da demanda</a></li>
+<li><strong>Data do PR:</strong> 19/10/2023</li>
+<li><strong>Screenshot:</strong></li>
+</ul>
+<p><img alt="Pull Request #27" src="../../assets/pullRequests/pull_27.png" />
+<img alt="Pull Request #8" src="../../assets/pullRequests/pull_demands_8.png" /></p>
+<figcaption align="center">Figura 5: Pull Request da issue #X. (Fonte: Autor, 2023)</figcaption>
+
+<hr />
+<h3 id="desenvolvimento">Desenvolvimento</h3>
+<ul>
+<li><strong>Autores:</strong> Artur Sousa e Débora Caires</li>
+<li><strong>ID e Descrição da Issue:</strong> <a href="https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10">#10 - Correções Página de Clientes</a></li>
+<li><strong>Link para a branch:</strong> <a href="https://github.com/Siged-Gces-2023-2/2021-2-SiGeD-Frontend/tree/feature/error-message-cliente">https://github.com/Siged-Gces-2023-2/2021-2-SiGeD-Frontend/tree/feature/error-message-cliente</a></li>
+<li><strong>Screenshot:</strong></li>
+</ul>
+<p><img alt="Issue #10" src="../../assets/development/issue10.png" /></p>
+<figcaption align="center">Figura 6: Print da Issue #10. (Fonte: Autor, 2023)</figcaption>
+
+<p><img alt="Scroll antes" src="../../assets/development/scroll.jpeg" /></p>
+<figcaption align="center">Figura 7: Print do scroll antes de modificado. (Fonte: Autor, 2023)</figcaption>
+
+<p><img alt="Scroll pronto" src="../../assets/development/scrollPronto.jpeg" /></p>
+<figcaption align="center">Figura 8: Print do scroll pronto. (Fonte: Autor, 2023)</figcaption>
+
+<p><img alt="Mensagens de erro antes" src="../../assets/development/modal.jpeg" /></p>
+<figcaption align="center">Figura 9: Print da tela de clientes. (Fonte: Autor, 2023)</figcaption>
+
+<p><img alt="Mensagens de erro depois pt1" src="../../assets/development/modalCorreto.jpeg" /></p>
+<figcaption align="center">Figura 10: Print da tela de clientes pronta pt1. (Fonte: Autor, 2023)</figcaption>
+
+<p><img alt="Mensagens de erro depois pt2" src="../../assets/development/mensagensCorretas.jpeg" /></p>
+<figcaption align="center">Figura 11: Print da tela de clientes pronta pt2. (Fonte: Autor, 2023)</figcaption>
+
+<hr />
+<h2 id="conclusao">Conclusão</h2>
+<p>Considerando o tempo mais curto da sprint as duplas conseguiram desenvolver de forma satisfatória as issues a qual foram alocadas. Tivemos 1 PR já integrado ao sistema e outros que ainda estão em fase de draft. Algumas dificuldades que valem ser citadas são em relação ao atraso para a comunicação com o mantenedor, dificuldades com questões internar do sistema(EsLint e Login) e poucas issues para serem distribuidas.</p>
+<h2 id="historico-de-versao">Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">16/10/2023</td>
+<td style="text-align: center;">Criação inicial do documento</td>
+<td style="text-align: center;">Lucas Lopes</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.1</td>
+<td style="text-align: center;">18/10/2023</td>
+<td style="text-align: center;">Inclusão de novo PR</td>
+<td style="text-align: center;">Lucas Lopes</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">18/10/2023</td>
+<td style="text-align: center;">Inclusão de novo PR</td>
+<td style="text-align: center;">Bianca Sofia</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3</td>
+<td style="text-align: center;">19/10/2023</td>
+<td style="text-align: center;">Inclusão de novo PR</td>
+<td style="text-align: center;">Davi Lima</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.4</td>
+<td style="text-align: center;">19/10/2023</td>
+<td style="text-align: center;">Inclusão de desenvolvimento</td>
+<td style="text-align: center;">Débora Moreira</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">19/10/2023</td>
+<td style="text-align: center;">Inclusão de novo PR</td>
+<td style="text-align: center;">Ana Júlia e Laís</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Voltar para o topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; 2023 <a href="https://github.com/Siged-Gces-2023-2"  target="_blank" rel="noopener">SIGeD GCES</a>
+
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      
+    
+  </body>
+</html>
