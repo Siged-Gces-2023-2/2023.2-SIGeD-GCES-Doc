@@ -110,7 +110,7 @@
 | Bianca Sofia | 9 | 4 | 4 |
 | Bruno Oliveira e Gustavo Barbosa | 13 | 4 | 4 |
 | Laís Aguiar | 12 | 5 | 4 |
-| Artur Sousa e Débora Caires | 4 | 2 | 3 |
+| Artur Sousa e Débora Caires | 7 | 2 | 3 |
 
 <figcaption align="center">Tabela 7: Número de commits, issues e PRs por dupla. (Fonte: Autor, 2023)</figcaption>
 
@@ -118,7 +118,7 @@
 
 | Commits | Issues resolvidas | PRs aceitos |
 | :-----: | :---------------: | :---------: |
-| 56 | 21 | 20 |
+| 59 | 21 | 20 |
 
 <figcaption align="center">Tabela 8: Número de commits, issues e PRs da equipe. (Fonte: Autor, 2023)</figcaption>
 
