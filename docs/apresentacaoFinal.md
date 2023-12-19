@@ -118,7 +118,7 @@
 
 | Commits | Issues resolvidas | PRs aceitos |
 | :-----: | :---------------: | :---------: |
-| 99 | 99 | 99 |
+| 56 | 21 | 20 |
 
 <figcaption align="center">Tabela 8: Número de commits, issues e PRs da equipe. (Fonte: Autor, 2023)</figcaption>
 
@@ -134,3 +134,4 @@
 | 1.2 | 18/12/2023 | Adição do PRs | Lucas, Bianca, Artur |
 | 1.3 | 18/12/2023 | Adição dos PRs | Bruno e Gustavo |
 | 1.4 | 18/12/2023 | Adição dos PRs | Lais Portela |
+| 1.4 | 18/12/2023 | Soma da Equipe | Lais Portela |
