@@ -54,7 +54,7 @@
 | :---: | :----------: | :----------: | :----: |
 | [#9 - Impressão de Relatório de Demandas na Tela de Perfil do Cliente](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/9) | [#24 - Adição de imprimir todas as demandas por cliente](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/24) | Lucas Lopes e Davi Lima | Aceito |
 | [#3 - Criar o relatório do Inventário dos itens patrimoniais do SIGED](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/3) | [#25 - Relatório em PDF contendo o nome e descrição dos itens patrimoniais cadastrados no SIGED.](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/25) | Bianca Sofia e Guilherme Brito | Aceito |
-| [#4 - Incluir atendimentos dentro da demanda](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito |
+| [#4 - Incluir atendimentos dentro da demanda](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/4) | [#27 - Incluir atendimentos dentro da demanda](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/27) (Frontend)<br>[#8 - Incluir atendimentos dentro da demanda](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/8) (Demands) | Bruno Oliveira e Gustavo Barbosa | Aceitos |
 | [#8 - Correção de Erros e Melhorias](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/8) |  | Laís Aguiar e Ana Júlia | Aceito/Não aceito |
 | [#10 - Correção página de clientes](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/10) | --- | Artur Sousa e Débora Caires | Não aceito |
 
@@ -68,8 +68,8 @@
 | [#1 - Criar relatório Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/1) | [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28) (Frontend)<br>[#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10) (Demands) | Lucas Lopes e Davi Lima | Aceitos |
 | [#2 - Criar gráfico Estatístico de Demandas por Características](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/2) | [#28 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/28) (Frontend)<br>[#10 - Adição de gráfico de demandas por caracteristicas](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/10) (Demands) | Lucas Lopes e Davi Lima | Aceitos |
 | [#11 - Aumentar cobertura de testes em Cargos](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/11) | [#11 - Adição de testes do validador para aumentar cobertura de testes](https://github.com/DITGO/2021-2-SiGeD-Cargos/pull/11) | Bianca Sofia e Guilherme Brito | Aceito |
-| [#14 - Melhoria no visual da tela de login](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito |
-| [#15 - Ajuste de bug visual na tabela de listagem de usuários](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito  |
+| [#14 - Melhoria no visual da tela de login](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/14) | [#31 - Alterando estilização da tela de login](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/31) | Bruno Oliveira e Gustavo Barbosa | Aceito |
+| [#15 - Ajuste de bug visual na tabela de listagem de usuários](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/15) |[#33 - Ajuste de bug visual na listagem de usuários](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/33) | Bruno Oliveira e Gustavo Barbosa | Aceito  |
 | [#13 - Correção de erro no Cadastro de Itens patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/13) |  | Laís Aguiar e Ana Júlia | Aceito/Não aceito |
 | [#6 - Correção da Estatística das Demandas por Setor](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/6) | [#30 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/30) (Frontend)<br>[#9 - Modificado a logica para contar os setores anteriores no grafico de estatística](https://github.com/DITGO/2021-2-SiGeD-Demands/pull/9) (Demands) | Artur Sousa e Débora Caires | Aceito |
 
@@ -82,7 +82,7 @@
 | :---: | :----------: | :----------: | :----: |
 | [#16 - Ajustar o posicionamento do botão Gerar PDF na tela de Patrimônio](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/16) | [#34 - Ajuste do posicionamento do botão Gerar PDF na tela de Patrimônio](https://github.com/DITGO/2021-2-SiGeD-Frontend/pull/34) | Lucas Lopes e Davi Lima | Aceito |
 | [#17 - Aumentar cobertura de testes em demands](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/17) | --- | Bianca Sofia | Não finalizada |
-| [#18 - Erro no cadastro de itens patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18) |  | Bruno Oliveira e Gustavo Barbosa | Aceito/Não aceito |
+| [#18 - Erro no cadastro de itens patrimoniais](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/18) | [#5 - Corrigindo erro no Cadastro de Itens Patrimoniais](https://github.com/DITGO/2021-2-SiGeD-Patrimonio/pull/5) | Bruno Oliveira e Gustavo Barbosa | Aceito |
 | [#12 - Incluir um temporizador nas pesquisas](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/12) |  | Laís Aguiar e Ana Júlia | Aceito/Não aceito |
 | [#20 - Correção de problema no ESLint em patrimonio](https://github.com/Siged-Gces-2023-2/2023.2-SIGeD-GCES-Doc/issues/20) |  | Laís Aguiar e Ana Júlia | Não finalizada |
 
@@ -108,7 +108,7 @@
 | :---------: | :-----: | :---------------: | :---------: |
 | Lucas Lopes e Davi Lima | 18 | 6 | 5 |
 | Bianca Sofia | 9 | 4 | 4 |
-| Bruno Oliveira e Gustavo Barbosa | 99 | 99 | 99 |
+| Bruno Oliveira e Gustavo Barbosa | 13 | 4 | 4 |
 | Laís Aguiar e Ana Júlia | 99 | 99 | 99 |
 | Artur Sousa e Débora Caires | 4 | 2 | 3 |
 
@@ -132,3 +132,4 @@
 | 1.0 | 20/11/2023 | Criação inicial do documento | Lucas Lopes |
 | 1.1 | 18/12/2023 | Reestruturação da apresentação | Lucas Lopes |
 | 1.2 | 18/12/2023 | Adição do PRs | Lucas, Bianca, Artur |
+| 1.3 | 18/12/2023 | Adição dos PRs | Bruno e Gustavo |
